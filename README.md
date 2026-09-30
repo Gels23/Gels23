@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9d8a,100:6366f1&height=200&section=header&text=Angelo%20Pelayo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=BSIT%20Student%20%7C%20Front-End%20%26%20UI%2FUX&descAlignY=60&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9d8a,100:6366f1&height=200&section=header&text=Angelo%20Pelayo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=BSIT%20Student%20%7C%20Front-End%20and%20UI%2FUX&descAlignY=60&descSize=18" alt="header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0F9D8A&center=true&vCenter=true&width=520&lines=Building+clean+interfaces;Designing+in+Figma;Writing+HTML%2C+CSS+%26+JavaScript;Learning+something+new+every+sem)](https://github.com/Gels23)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0F9D8A&center=true&vCenter=true&width=520&lines=Building+clean+interfaces;Designing+in+Figma;Writing+HTML%2C+CSS+and+JavaScript;Learning+something+new+every+sem)](https://github.com/Gels23)
 
 [![Portfolio](https://img.shields.io/badge/🌐_View_My_Portfolio-0f9d8a?style=for-the-badge)](https://gels23.github.io/My-Portfolio/)
 
